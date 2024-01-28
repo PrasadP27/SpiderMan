@@ -5,4 +5,7 @@
 
 This is the basic Spider-Man website build with HTML, CSS and Javascript just for fun.
 
+## Languages used
+
+`HTML` `CSS` `JavaScript`
 
