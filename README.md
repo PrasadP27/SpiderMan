@@ -3,7 +3,7 @@
 
 # Spider-Man website 
 
-This is the basic Spider-Man website build with HTML, CSS and Javascript just for fun.
+This is the basic website of the spiderman made with HTML, CSS and JavaScript which shows the history, villians and many more things about Spider-man.
 
 ## Languages used
 
