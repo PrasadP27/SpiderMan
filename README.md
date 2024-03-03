@@ -3,7 +3,7 @@
 
 # Spider-Man website 
 
-This is the basic website of the spiderman made with HTML, CSS and JavaScript which shows the history, villians and many more things about Spider-man.
+This is the basic [website](https://spidermanfan.netlify.app/) of the spiderman made with HTML, CSS and JavaScript which shows the history, villians and many more things about Spider-man.
 
 ## Languages used
 
